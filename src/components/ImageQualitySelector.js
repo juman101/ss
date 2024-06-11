@@ -49,7 +49,7 @@ const ImageQualitySelector = ({ options, images }) => {
                             Hi Shriya, I know you are feeling very low and sick too, and adding to that, I made you feel more sad!  
                             I want to apologize for all the tiny and massive things that contributed to making you feel low. 
                             I truly never intend to hurt you. I care deeply about your health and emotional well-being, 
-                            but sometimes I get upset too. I'm sorry I made you feel this way. Please call me. I love you.
+                            but sometimes I get upset and behaveeeeee in a very irrational way. I'm sorry I made you feel this way but you know right i want to make it right make everything right . Please call me. I love you.
                         </p>
                     )}
                 </div>
