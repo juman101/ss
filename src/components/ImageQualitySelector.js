@@ -36,7 +36,7 @@ const ImageQualitySelector = ({ options, images }) => {
                     <button onClick={handleButtonClick}>Show Note</button>
                     {showNote && (
                         <p style={{ 
-                            width: '500px',
+                            width: '400px',
                             backgroundColor: 'pink',
                             padding: '10px',
                             borderRadius: '5px',
